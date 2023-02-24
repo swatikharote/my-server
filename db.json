@@ -65870,7 +65870,6 @@
       "name": "Engineering"
     }
   ],
-  "products": [],
   "product_status": [],
   "brands": [],
   "shippings": [],
@@ -65900,6 +65899,152 @@
     {
       "name": "Swati",
       "lastname": "Kharote"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "mobile",
+      "productName": "IPhone 14 Pro Max 5g",
+      "price": 8999,
+      "location": "Delhi",
+      "brand": "Apple",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": ".https://call.whatsapp.com/video/9Z9sQvwyqkvMXmNYYPi8kA.....whtsapp- 9711234415...Processor 23.1 Hexa core 512gb ram show. 256gb working 6gb Ram Face I'd original 13mp_13mp duel auto focus camera Full HD or 4k support Battery 4250 may 3D Touch Fast charging 20w Ip68 water resistant Super HD oled screen....cod available all India...whtsapp- 9711234415...cod available all India",
+      "image": "https://teja10.kuikr.com/i6/20230222/IPhone-14pro-max-5g-Dubai-aaa-high-productcod-available-VB201705171774173-ak_WBP1297251284-1677064268.png"
+    },
+    {
+      "id": 2,
+      "category": "mobile",
+      "productName": "IPhone 14 Pro Max 5g",
+      "price": 8999,
+      "location": "Delhi",
+      "brand": "Apple",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": ".https://call.whatsapp.com/video/9Z9sQvwyqkvMXmNYYPi8kA.....whtsapp- 9711234415...Processor 23.1 Hexa core 512gb ram show. 256gb working 6gb Ram Face I'd original 13mp_13mp duel auto focus camera Full HD or 4k support Battery 4250 may 3D Touch Fast charging 20w Ip68 water resistant Super HD oled screen....cod available all India...whtsapp- 9711234415...cod available all India",
+      "image": "https://www.quikr.com/mobiles-tablets/iphone-14pro-max-5g.dubai-aaa-high-product.cod-available-delhi/p/364273345"
+    },
+    {
+      "id": 3,
+      "category": "mobile",
+      "productName": "IPhone 14 Pro Max 5g",
+      "price": 8999,
+      "location": "Delhi",
+      "brand": "Apple",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": ".https://call.whatsapp.com/video/9Z9sQvwyqkvMXmNYYPi8kA.....whtsapp- 9711234415...Processor 23.1 Hexa core 512gb ram show. 256gb working 6gb Ram Face I'd original 13mp_13mp duel auto focus camera Full HD or 4k support Battery 4250 may 3D Touch Fast charging 20w Ip68 water resistant Super HD oled screen....cod available all India...whtsapp- 9711234415...cod available all India",
+      "image": "https://teja8.kuikr.com/i5/20230206/IPhone-14pro-max-5gDubai-aaa-high-productcod-available-VB201705171774173-ak_WBP347417281-1675623174.png"
+    },
+    {
+      "id": 4,
+      "category": "mobile",
+      "productName": "IPhone 14 Pro Max 5g",
+      "price": 8999,
+      "location": "Delhi",
+      "brand": "Apple",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": ".https://call.whatsapp.com/video/9Z9sQvwyqkvMXmNYYPi8kA.....whtsapp- 9711234415...Processor 23.1 Hexa core 512gb ram show. 256gb working 6gb Ram Face I'd original 13mp_13mp duel auto focus camera Full HD or 4k support Battery 4250 may 3D Touch Fast charging 20w Ip68 water resistant Super HD oled screen....cod available all India...whtsapp- 9711234415...cod available all India",
+      "image": "https://www.quikr.com/mobiles-tablets/iphone-14pro-max-5g.dubai-aaa-high-product.cod-available-delhi/p/364077318"
+    },
+    {
+      "id": 5,
+      "category": "home_lifestyle",
+      "productName": "Customised Toughened Glass Top Centre Table with Storage",
+      "price": 4000,
+      "location": "Mumbai",
+      "brand": "Godrej",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": ".Marine Ply, Toughened Glass Top, Three way storage - under the Glass top, Inside Drawer and on one Side - size 39 (L) x 21 (W) x 14 (H)",
+      "image": "https://teja9.kuikr.com/i4/20230224/Customised-Toughened-Glass-Top-Centre-Table-with-Storage-VB201705171774173-ak_LWBP566806629-1677222955.webp"
+    },
+    {
+      "id": 6,
+      "category": "home_lifestyle",
+      "productName": "2 Seater sofa along with 2nos. of pillows",
+      "price": 1000,
+      "location": "Mumbai",
+      "brand": "Lucky Furniture",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": "2 Seater sofa with 2 pillows. a small cut in leather which hides behind the pillow. Steel legs.",
+      "image": "https://teja9.kuikr.com/i5/20230224/2-Seater-sofa-along-with-2nos-of-pillows-VB201705171774173-ak_LWBP1087347088-1677237798_lg.webp"
+    },
+    {
+      "id": 7,
+      "category": "home_lifestyle",
+      "productName": "MUMBAI computer chair / living room",
+      "price": 1500,
+      "location": "Pune",
+      "brand": "Nilkaml",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": ".Marine Ply, Toughened Glass Top, Three way storage - under the Glass top, Inside Drawer and on one Side - size",
+      "image": "https://teja9.kuikr.com/i5/20230207/MUMBAI-computer-chair---living-room-VB201705171774173-ak_WBP2039611342-1675766191.png"
+    },
+    {
+      "id": 8,
+      "category": "home_lifestyle",
+      "productName": "Mumbai (Urgent sell reasonhomeshifting)",
+      "price": 20000,
+      "location": "Mumbai",
+      "brand": "safsa Furniture",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": "new 3 seater sofa fully white",
+      "image": "https://teja9.kuikr.com/i5/20230207/Mumbai--Urgent-sell-reasonhomeshifting--VB201705171774173-ak_LWBP1192936666-1675733242_lg.webp"
+    },
+    {
+      "id": 9,
+      "category": "electronics",
+      "productName": "Dell Laptop-INSP 3000-i3-256SSD-1115G4 Processor-15.6 Inch",
+      "price": 33000,
+      "location": "Mumbai",
+      "brand": "Dell",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": "Dell Laptop-INSP 3000-i3-256SSD-1115G4 Processor-15.6 Inch",
+      "image": "https://teja9.kuikr.com/i6/20230224/Dell-Laptop-INSP-3000-i3-256SSD-1115G4-Processor-156-Inch-VB201705171774173-ak_LWBP2146124876-1677240758.webp"
+    },
+    {
+      "id": 10,
+      "category": "electronics",
+      "productName": "Buy on 98910 09376 SONY PlayStation 4 Slim 1 TB ( Console, Controller, 2 CDs) With Bill Box Available",
+      "price": 13500,
+      "location": "Pune",
+      "brand": "Sony PlayStation",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": "Buy on 98910 09376 SONY PlayStation 4 Slim 1 TB ( Console, Controller, 2 CDs) With Bill Box Available.",
+      "image": "https://teja10.kuikr.com/i6/20230224/Buy-on-98910-09376-SONY-PlayStation-4-Slim-1-TB---Console--Controller--2-CDs--With-Bill-Box-Available-VB201705171774173-ak_LWBP266500127-1677229500.jpeg"
+    },
+    {
+      "id": 11,
+      "category": "electronics",
+      "productName": "APPLE MACBOOK AIR 512GB M1 CHIP AVAILABLE ON COD WITH BILL BOX TERMS AND CONDITIONS APPLY",
+      "price": 14500,
+      "location": "Pune",
+      "brand": "Apple",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": "APPLE MACBOOK AIR 512GB M1 CHIP AVAILABLE ON COD WITH BILL BOX TERMS AND CONDITIONS APPLY APPLE MACBOOK AIR 512GB M1 CHIP AVAILABLE ON COD WITH BILL BOX TERMS AND CONDITIONS APPLY",
+      "image": "https://teja9.kuikr.com/i4/20230216/APPLE-MACBOOK-AIR-512GB-M1-CHIP-AVAILABLE-ON-COD-WITH-BILL-BOX-TERMS-AND-CONDITIONS-APPLY-VB201705171774173-ak_LWBP1852318563-1676524052_lg.webp"
+    },
+    {
+      "id": 12,
+      "category": "electronics",
+      "productName": "Sale 72330 07176 Apple MacBook Air 2020 M1, Display 13.3 Inch LED backlit, 8GB, 512GB, macOS Big Sur, With All Accessories ",
+      "price": 16700,
+      "location": "Mumbai",
+      "brand": "Apple",
+      "condition": "Used",
+      "adId": 4326387,
+      "description": "Sale 72330 07176 Apple MacBook Air 2020 M1, Display 13.3 Inch LED backlit, 8GB, 512GB, macOS Big Sur, With All Accessories  Sale 72330 07176 Apple MacBook Air 2020 M1, Display 13.3 Inch LED backlit, 8GB, 512GB, macOS Big Sur, With All Accessories ",
+      "image": "https://teja9.kuikr.com/i4/20230221/Sale-72330-07176-Apple-MacBook-Air-2020-M1--Display-133-Inch-LED-backlit--8GB--512GB--macOS-Big-Sur--With-All-Accessories-and-6-months-Brand-Warranty-VB201705171774173-ak_LWBP1509276915-1676962724.webp"
     }
   ]
 }
